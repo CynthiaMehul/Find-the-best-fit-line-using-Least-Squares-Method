@@ -29,7 +29,9 @@ Step 8: Stop.
 
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
+
 Developed by: Cynthia Mehul 
+
 RegisterNumber: 212223040020 
 */
 ```
