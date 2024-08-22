@@ -30,9 +30,9 @@ Step 8: Stop.
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 
-Developed by: Cynthia Mehul 
+Developed by: Cynthia Mehul J
 
-RegisterNumber: 212223040020 
+RegisterNumber: 212223240020 
 */
 ```
 import numpy as np
